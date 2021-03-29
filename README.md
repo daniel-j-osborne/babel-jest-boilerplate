@@ -3,5 +3,5 @@
 Simple boilerplate for:
 
 - Node app
-- Coding: Babel
+- Coding: Babel, Ramda
 - Testing: Jest
